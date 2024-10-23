@@ -1,16 +1,11 @@
-# ✨ About Me:
 <h1 align="center"><b>Hi, I'm Yotam Braun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+I'm a **Data Scientist**  with a passion for **Natural Language Processing (NLP)**, **time series forecasting**, and **optimization**. I have experience building **end-to-end machine learning pipelines** and **scalable AI solutions**. I'm open to collaborations and opportunities in the field of Data Science. Feel free to reach out to me!
 
-- Passionate about **NLP (LLM, RAG)**, **time series forecasting**, and **optimization**.
-- Experienced in building **end-to-end machine learning pipelines** and **scalable AI solutions**.
-- Holder of a **Master's degree in Statistics**, with a focus on **genetic algorithms**.
-- Currently working as a **Data Scientist** at **SDatta**, optimizing supply chain strategies using **Time Series methods**.
-- Open to collaborations and opportunities in the field of Data Science.
-
+Check out my [Medium articles](https://medium.com/@yotambraun).
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -32,10 +27,12 @@
 
    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
    ![MLflow](https://img.shields.io/badge/MLflow-%230080FF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-   ![Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
    ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23F68D2E.svg?style=for-the-badge&logo=clickhouse&logoColor=white)
    ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
    ![LangChain](https://img.shields.io/badge/LangChain-%234A90E2.svg?style=for-the-badge&logo=&logoColor=white)
+   ![LangGraph](https://img.shields.io/badge/LangGraph-%234A90E2.svg?style=for-the-badge&logo=&logoColor=white)
    ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![ClearML](https://img.shields.io/badge/ClearML-%2300C4B3.svg?style=for-the-badge&logo=&logoColor=white)
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -45,46 +42,17 @@
    ![Dask](https://img.shields.io/badge/Dask-%23F05133.svg?style=for-the-badge&logo=dask&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![YAML](https://img.shields.io/badge/YAML-%232C8EBB.svg?style=for-the-badge&logo=&logoColor=white)
-   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Experience</b>
-
-<br>
-
-#### **Data Scientist | SDatta (2023 - Present)**
-- Developed algorithms to optimize supply chain strategies using **Time Series methods** (sktime, nixtla, darts, PyTorch, Optuna).
-- Created and tested a **Time Series package** for forecasting.
-- Fine-tuned **YOLO** and **CLIP** models for production in a wine bottling line.
-- Implemented efficient **ETL processes** (ClickHouse, Airflow) and deployed solutions on Azure, achieving a **10% cost saving** for clients.
-
-#### **Data Scientist | The First International Bank of Israel (FIBI) (2022 - 2023)**
-- Developed a model to classify customers at risk of **churning** using **Python**, **Dataiku**, and **SQL**.
-- Performed **feature engineering** and communicated insights to senior stakeholders.
-
-#### **Data Scientist | JTMT (2021 - 2022)**
-- Developed a **CatBoost** model for **traffic volume forecasting** using data from Mobileye, sensors, and government sources.
-- Implemented real-time **Anomaly Detection** in bus rides using GPS data.
+   ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=&logoColor=white)
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![Nixtla](https://img.shields.io/badge/Nixtla-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![Darts](https://img.shields.io/badge/Darts-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
 
 <br>
 
 ## 🚀 Cool Projects
 
-- [**AI-Powered Project Management System with RAG**](https://github.com/yotambraun/Project_Management_System_with_RAG): An AI-driven project management system using **Retrieval-Augmented Generation (RAG)** for enhanced efficiency in task execution, team collaboration, and decision-making.
+- [**AI-Powered Project Management System with RAG**](https://github.com/yotambraun/Project_Management_System_with_RAG): An AI-driven project management system using **Retrieval-Augmented Generation (RAG)** for enhanced efficiency in task execution, team collaboration, and decision-making. [Read the article on Medium](https://pub.towardsai.net/revolutionizing-project-management-with-ai-agents-and-langgraph-ff90951930c1).
 - [**Football Scout RAG**](https://github.com/yotambraun/football_scout_rag): An AI-powered **football scouting agent** designed to scrape data from Transfermarkt, providing **advanced player statistics** and comparisons.
-
-<br>
-
-## 🎓 Education
-- **Master's in Statistics and Data Science** | The Hebrew University of Jerusalem (2020 - 2023)
-  - Thesis: **Optimization of dynamic transportation networks using genetic algorithms** (Thesis Grade: 91).
-- **Bachelor's in Statistics, Data Science, and Economics** | The Hebrew University of Jerusalem (2017 - 2020)
-
-<br>
-
-## 📢 Publications & Conferences
-- **Speaker** at the Israeli section of the **European Regional Science Association (2024)**: Presented my Master's thesis on **genetic algorithms and optimization**.
 
 <br>
 
