@@ -46,10 +46,9 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![Nixtla](https://img.shields.io/badge/Nixtla-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![Darts](https://img.shields.io/badge/Darts-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
-   ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![Optuna](https://img.shields.io/badge/Optuna-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
-   ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT-LEARN-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
-
+   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+   ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 <br>
 
 ## 🚀 Cool Projects
