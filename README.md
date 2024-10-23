@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi, I'm Yotam Braun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a **Data Scientist** with a passion for **Natural Language Processing (NLP)**, **time series forecasting**, and **optimization**. I have experience building **end-to-end machine learning pipelines** and **scalable AI solutions**. I'm open to collaborations and opportunities in the field of Data Science. Feel free to reach out to me!
+I'm a **Data Scientist** with a passion for **Natural Language Processing (NLP)**, **time series forecasting**, and **optimization**. I hold a Master's degree in Statistics and Data Science, with a thesis focused on the **optimization of dynamic transportation networks** through the application of **genetic algorithms**. I have experience building **end-to-end machine learning pipelines** and **scalable AI solutions**.
+I'm open to collaborations and opportunities in the field of Data Science. Feel free to reach out to me!
 
 Check out my [Medium articles](https://medium.com/@yotambraun).
 <br><br>
