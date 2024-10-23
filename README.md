@@ -45,8 +45,8 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Nixtla](https://img.shields.io/badge/Nixtla-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![Darts](https://img.shields.io/badge/Darts-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
-   ![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
-   ![Optuna](https://img.shields.io/badge/Optuna-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![Yolo](https://img.shields.io/badge/Yolo-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![OPTUNA](https://img.shields.io/badge/OPTUNA-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
    ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 <br>
