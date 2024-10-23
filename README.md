@@ -23,7 +23,10 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
 - **Frameworks & Tools**:
 
    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
    ![MLflow](https://img.shields.io/badge/MLflow-%230080FF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+   ![ClearML](https://img.shields.io/badge/ClearML-%2300C4B3.svg?style=for-the-badge&logo=&logoColor=white)
+   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300C7B7.svg?style=for-the-badge&logo=&logoColor=white)
    ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
    ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
    ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23F68D2E.svg?style=for-the-badge&logo=clickhouse&logoColor=white)
@@ -31,7 +34,6 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![LangChain](https://img.shields.io/badge/LangChain-%234A90E2.svg?style=for-the-badge&logo=&logoColor=white)
    ![LangGraph](https://img.shields.io/badge/LangGraph-%234A90E2.svg?style=for-the-badge&logo=&logoColor=white)
    ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
-   ![ClearML](https://img.shields.io/badge/ClearML-%2300C4B3.svg?style=for-the-badge&logo=&logoColor=white)
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
    ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
    ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
@@ -43,6 +45,10 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Nixtla](https://img.shields.io/badge/Nixtla-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![Darts](https://img.shields.io/badge/Darts-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![Optuna](https://img.shields.io/badge/Optuna-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
+   ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT-LEARN-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
 
 <br>
 
