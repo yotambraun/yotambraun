@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi, I'm Yotam Braun</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
 I'm a **Data Scientist** with a passion for **Natural Language Processing (NLP)**, **time series forecasting**, and **optimization**. I have experience building **end-to-end machine learning pipelines** and **scalable AI solutions**. I'm open to collaborations and opportunities in the field of Data Science. Feel free to reach out to me!
 
 Check out my [Medium articles](https://medium.com/@yotambraun).
@@ -51,14 +50,8 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
 
 - [**AI-Powered Project Management System with RAG**](https://github.com/yotambraun/Project_Management_System_with_RAG): An AI-driven project management system using **Retrieval-Augmented Generation (RAG)** for enhanced efficiency in task execution, team collaboration, and decision-making. [Read the article on Medium](https://pub.towardsai.net/revolutionizing-project-management-with-ai-agents-and-langgraph-ff90951930c1).
 - [**Football Scout RAG**](https://github.com/yotambraun/football_scout_rag): An AI-powered **football scouting agent** designed to scrape data from Transfermarkt, providing **advanced player statistics** and comparisons.
-- [**Urban Traffic Flow Optimization with Genetic Algorithms 🧬**](https://github.com/yotambraun/medium_posts/tree/main/Optimizing_Urban_Traffic_Flow_Genetic%20_Algorithm): This project tackles the complex challenge of optimizing urban traffic flow using the power of genetic algorithms. By fine-tuning traffic light timings, we aim to reduce congestion and improve overall traffic movement in a simulated city environment. [Read the article on Medium](https://medium.com/@yotambraun/optimizing-urban-traffic-flow-a-genetic-algorithm-approach-to-traffic-light-timing-b6572c22e243).
+- [**Urban Traffic Flow Optimization with Genetic Algorithms 🧬**](https://github.com/yotambraun/medium_posts/tree/main/Optimizing_Urban_Traffic_Flow_Genetic%20_Algorithm): In this project, I addressed the challenge of optimizing urban traffic flow using genetic algorithms. By fine-tuning traffic light timings, my goal was to help reduce congestion and improve overall traffic movement within a simulated city environment. [Read the article on Medium](https://medium.com/@yotambraun/optimizing-urban-traffic-flow-a-genetic-algorithm-approach-to-traffic-light-timing-b6572c22e243).
 
-  🌟 **Project Overview**
-  - 🏙️ Simulated city environment (20x20 grid)
-  - 🚥 Dynamic traffic light system
-  - 🚗 Realistic car movement simulation
-  - 🧬 Multi-objective genetic algorithm optimization
-  - 📊 Comprehensive data visualization
 
 <br>
 
