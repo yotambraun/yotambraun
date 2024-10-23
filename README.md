@@ -24,7 +24,7 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
 
    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-   ![MLflow](https://img.shields.io/badge/MLflow-%230080FF.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+   ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
    ![ClearML](https://img.shields.io/badge/ClearML-%2300C4B3.svg?style=for-the-badge&logo=&logoColor=white)
    ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2300C7B7.svg?style=for-the-badge&logo=&logoColor=white)
    ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
@@ -40,7 +40,7 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
    ![Dask](https://img.shields.io/badge/Dask-%23F05133.svg?style=for-the-badge&logo=dask&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   ![YAML](https://img.shields.io/badge/YAML-%232C8EBB.svg?style=for-the-badge&logo=&logoColor=white)
+   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
    ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Nixtla](https://img.shields.io/badge/Nixtla-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
