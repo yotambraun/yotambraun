@@ -42,6 +42,7 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
    ![Dask](https://img.shields.io/badge/Dask-%23F05133.svg?style=for-the-badge&logo=dask&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
    ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
    ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,8 +59,7 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
 
 - [**AI-Powered Project Management System with RAG**](https://github.com/yotambraun/Project_Management_System_with_RAG): An AI-driven project management system using **Retrieval-Augmented Generation (RAG)** for enhanced efficiency in task execution, team collaboration, and decision-making. [Read the article on Medium](https://pub.towardsai.net/revolutionizing-project-management-with-ai-agents-and-langgraph-ff90951930c1).
 - [**Football Scout RAG**](https://github.com/yotambraun/football_scout_rag): An AI-powered **football scouting agent** designed to scrape data from Transfermarkt, providing **advanced player statistics** and comparisons.
-- [**Urban Traffic Flow Optimization with Genetic Algorithms 🧬**](https://github.com/yotambraun/medium_posts/tree/main/Optimizing_Urban_Traffic_Flow_Genetic%20_Algorithm): In this project, I addressed the challenge of optimizing urban traffic flow using genetic algorithms. By fine-tuning traffic light timings, my goal was to help reduce congestion and improve overall traffic movement within a simulated city environment. [Read the article on Medium](https://medium.com/@yotambraun/optimizing-urban-traffic-flow-a-genetic-algorithm-approach-to-traffic-light-timing-b6572c22e243).
-
+- [**LLM-Code-Review 🤖**](https://github.com/yotambraun/LLM-Code-Review): An automated code review tool powered by **Large Language Models (LLMs)**, integrated as a GitHub Action. It provides **real-time code analysis** on every pull request, offering detailed feedback on security risks, performance bottlenecks, and code quality—right in your pull requests. No more waiting for reviews or missing critical issues.
 
 <br>
 
