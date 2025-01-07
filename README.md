@@ -58,7 +58,7 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
 
 ## 🚀 Cool Projects
 
-- [**AI-Powered Project Management System with RAG**](https://github.com/yotambraun/Project_Management_System_with_RAG): An AI-driven project management system using **Retrieval-Augmented Generation (RAG)** for enhanced efficiency in task execution, team collaboration, and decision-making. [Read the article on Medium](https://pub.towardsai.net/revolutionizing-project-management-with-ai-agents-and-langgraph-ff90951930c1).
+- [**Project Management System with RAG**](https://github.com/yotambraun/Project_Management_System_with_RAG): An AI-driven project management system using **Retrieval-Augmented Generation (RAG)** for enhanced efficiency in task execution, team collaboration, and decision-making. [Read the article on Medium](https://pub.towardsai.net/revolutionizing-project-management-with-ai-agents-and-langgraph-ff90951930c1).
 - [**VisualInsight**](https://github.com/yotambraun/VisualInsight): An app leveraging **Google Generative AI (Gemini)** to analyze images. This Streamlit-based web application allows users to upload images for analysis, storing both the original images and results in **Amazon S3**.
 [Read the article on Medium](https://medium.com/@yotambraun/visualinsight-an-end-to-end-image-analysis-application-using-google-generative-ai-gemini-7847f6f0a1b9).
 - [**Football Scout RAG**](https://github.com/yotambraun/football_scout_rag): An AI-powered **football scouting agent** designed to scrape data from Transfermarkt, providing **advanced player statistics** and comparisons.
