@@ -86,6 +86,14 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
 </a>
 </li>
 
+<br>
+
+<li>
+<a href="https://medium.com/@yotambraun" target="_blank">
+<img src="https://img.shields.io/badge/medium:  @yotambraun-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;" />
+</a>
+</li>
+
 </ul>
 </div>
 
