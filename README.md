@@ -53,6 +53,7 @@ Check out my [Medium articles](https://medium.com/@yotambraun).
    ![OPTUNA](https://img.shields.io/badge/OPTUNA-%23FF6F00.svg?style=for-the-badge&logo=&logoColor=white)
    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
    ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+   ![Terrafom](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 <br>
 
 ## 🚀 Cool Projects
