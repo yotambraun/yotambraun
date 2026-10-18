@@ -4,7 +4,7 @@ I'm a **Data Scientist** working on **GenAI**, **LLM & agent evaluation**, **NLP
 
 - 📦 Author of open-source packages on **PyPI** and **npm** with over **65,000 downloads**, including [APDTFlow](https://github.com/yotambraun/APDTFlow) for time series forecasting and [Toolscore](https://github.com/yotambraun/Toolscore) for LLM tool-calling evaluation
 - 🧠 Released [SafeDecide](https://github.com/yotambraun/safedecide), a 140M decision model on [Hugging Face](https://huggingface.co/yotambr/safedecide-140m) with a certified error rate on the decisions it automates
-- 🔌 Contributor to the [Model Context Protocol](https://github.com/modelcontextprotocol/servers): reported two data-loss bugs in the reference memory server with fix PRs, and both fixes have shipped
+- 🔌 Contributor to the [Model Context Protocol](https://github.com/modelcontextprotocol/servers): found two bugs in the reference memory server that silently lost saved data, and both fixes have shipped
 - 🎓 M.Sc. in Statistics and Data Science, with a thesis on optimizing dynamic transportation networks using **genetic algorithms**
 - ✍️ I write about this work on [Medium](https://medium.com/@yotambraun)
 
@@ -80,12 +80,6 @@ Articles on Medium: [Toolscore for reliable tool-using AI](https://medium.com/@y
 - [**Bot Chat DeepSeek**](https://github.com/yotambraun/bot_chat_deepseek): An end-to-end pipeline of fine-tuning a Large Language Model (**LLM**) on AWS. This repository demonstrates how to prepare a custom dataset, **fine-tune** a language model, **deploy** it on **AWS SageMaker**, and interact with it via a Flask-based API.
 - [**Football Scout RAG**](https://github.com/yotambraun/football_scout_rag): An AI-powered **football scouting agent** designed to scrape data from Transfermarkt, providing **advanced player statistics** and comparisons.
 - [**LLM-Code-Review 🤖**](https://github.com/yotambraun/LLM-Code-Review): An automated code review tool powered by **Large Language Models (LLMs)**, integrated as a GitHub Action. It provides **real-time code analysis** on every pull request, offering detailed feedback on security risks, performance bottlenecks, and code quality—right in your pull requests. No more waiting for reviews or missing critical issues.
-
-<br>
-
-## 🤝 Open-Source Contributions
-
-- [**Model Context Protocol servers**](https://github.com/modelcontextprotocol/servers): Reported two bugs in the reference **memory server** and opened fix PRs for both. `create_entities` dropped observations for existing entities without saying so ([#4887](https://github.com/modelcontextprotocol/servers/issues/4887), [PR #4888](https://github.com/modelcontextprotocol/servers/pull/4888)), and lines the server could not read were deleted on the next write ([#4885](https://github.com/modelcontextprotocol/servers/issues/4885), [PR #4886](https://github.com/modelcontextprotocol/servers/pull/4886)). The maintainers shipped both fixes on the v2 line.
 
 <br>
 
